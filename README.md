@@ -1,6 +1,6 @@
 # alk
 
-A new Flutter project.
+A Flutter project for daily news. The app provides functionality to add news using Google Firebase to store news. 
 
 ## Getting Started
 
