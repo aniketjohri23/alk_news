@@ -2,8 +2,6 @@
 
 A Flutter project for daily news. The app provides functionality to add news using Google Firebase to store news. 
 <img width="499" alt="Screenshot 2024-06-28 at 12 16 42 PM" src="https://github.com/aniketjohri23/alk_news/assets/73753201/7476fc2a-ab4c-46ba-8a58-d293f53e9050">
-
-
 <img width="495" alt="Screenshot 2024-06-28 at 12 27 58 PM" src="https://github.com/aniketjohri23/alk_news/assets/73753201/be99e302-408a-471e-ba04-1f6743053257">
 
 ## Getting Started
