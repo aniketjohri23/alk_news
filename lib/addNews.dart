@@ -21,7 +21,13 @@ class _newsState extends State<news> {
   Widget build(BuildContext context) {
    return Scaffold(
      appBar: AppBar(
-       title: const Text("add news",style: TextStyle(color: Colors.blueAccent,fontWeight: FontWeight.bold),),
+       title: const Row(
+
+         children: [
+           Text("Add ",style: TextStyle(color: Colors.blueAccent,fontWeight: FontWeight.bold),),
+           Text("News",style: TextStyle(color: Colors.yellowAccent,fontWeight: FontWeight.bold),),
+         ],
+       ),
        backgroundColor: Colors.pink,
      ),
      body: Container(
