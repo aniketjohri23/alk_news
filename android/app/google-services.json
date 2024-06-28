@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "159149613021",
+    "project_id": "alk-e409f",
+    "storage_bucket": "alk-e409f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159149613021:android:dd91524c0003ca7e1ca034",
+        "android_client_info": {
+          "package_name": "com.example.alk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0hVjErIuX6UPlcC0kZRjyYLF1PT7j3W8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
